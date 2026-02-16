@@ -9,7 +9,7 @@ Então montei esse script python simples para windows.
 É necessário fazer o build com PyInstaller:
 
 ```bash
-python -m PyInstaller server.spec --clean
+python -m PyInstaller main.spec --clean
 ```
 
 ## Instruções para configuração:
